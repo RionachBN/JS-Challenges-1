@@ -66,7 +66,10 @@
 // }
 // Acivity 5
 let films = ["Hot Fuzz", "Dear John", "Baby Driver", "Black Panther"]
-// for(filmNumber==0; filmNumber < films.length; filmNumber++)
+
+for(let filmNumber=0; filmNumber < films.length; filmNumber++) {
+
+}
     if(films[2]=="Ghostbusters"){
         console.log("Yay it's Ghostbusters!")
     }
